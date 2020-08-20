@@ -1,0 +1,13 @@
+.isCompeted {
+  color: red;
+  text-decoration: line-through;
+}
+
+.ItemBtn {
+  height: 20px;
+  float: right;
+}
+
+.itemCheckbox {
+  margin-right: 5px;
+}
